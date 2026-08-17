@@ -1,0 +1,1 @@
+Primeiro código do curso de ADS!
